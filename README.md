@@ -1,13 +1,13 @@
-### Boas Vindas a Meu Perfil ❗❗❗❗  < 🇧🇷 >
+### _**Boas Vindas a Meu Perfil ❗❗❗❗  < 🇧🇷 >**_
 
-Meu nome é Marcelo Yamamoto
+Meu nome é **Marcelo Yamamoto**
 
 - 👍 Trabalho no SENAC / SESC
    - 👨‍🏫 Sou instrutor de Informática 
-- 👨‍🏫 Sou professor de informática na rede Estadual de Ensino (PSS)
+- 👨‍🏫 Também sou Professor na rede Estadual de Ensino (PSS)
+
 ![seed](https://www.areadoaluno.seed.pr.gov.br/servicosaoaluno/resources/images/logo-h-seee-429x270.png)
-- 📂 Utilizo esse espaço para compartilhamento de atividades e exemplos:
-- 💻 Meus conhecimentos: 
+- 💻 **Meus conhecimentos: **
    
    ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
    ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,7 +33,9 @@ Meu nome é Marcelo Yamamoto
    ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white)
    ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
-### Para entrar em contato comigo 📬 : m.yamamoto@escola.pr.gov.br
+Para entrar em contato comigo:
+
+📬 m.yamamoto@escola.pr.gov.br
 
 ![Programação](https://media.tenor.com/YdTpw-54DXcAAAAC/pusheen-laptop.gif)
 
